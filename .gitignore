@@ -168,4 +168,5 @@ cython_debug/
 # Course resources I shouldn't upload
 Szeliski_CVAABook_2ndEd.pdf
 CornellCS5670/
-Assignment 2/Data/
+Assignment 2/Assignment2/Data/
+

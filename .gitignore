@@ -9,7 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-develop-eggs/
+*Develop-eggs/
 dist/
 downloads/
 eggs/
@@ -169,3 +169,4 @@ cython_debug/
 Szeliski_CVAABook_2ndEd.pdf
 CornellCS5670/
 Assignment 2/Assignment2/A2_smvs/
+.DS_Store
